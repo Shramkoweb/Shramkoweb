@@ -26,6 +26,6 @@ At the moment I am a mentor at [Hexlet](https://ru.hexlet.io/) and [HTML Academy
 ## 📚 My favorite learning sources
 
 - [Frontend Masters](https://frontendmasters.com/)
-- [egghead.io](https://egghead.io/)
-- [newline.co](https://www.newline.co/)
+- [Egghead.io](https://egghead.io/)
+- [Newline.co](https://www.newline.co/)
 - [Kent C. Dodds](https://kentcdodds.com/)
