@@ -6,7 +6,7 @@ Previously I have worked at [P1k](https://p1k.org/) and at [PDFFiller](https://w
 At the moment I am a mentor at [Hexlet](https://ru.hexlet.io/) and [HTML Academy](https://htmlacademy.ru).
 
 [//]: # (- 🔭 I’m currently working on:)
-- 🌱 I’m currently learning: How to create the backend part of a web app (I'm doing [NestJS Fundamentals Course](https://courses.nestjs.com/)).
+- 🌱 ~~I’m currently learning: How to create the backend part of a web app (I'm doing [NestJS Fundamentals Course](https://courses.nestjs.com/)).~~ Done
 - 🤔 What I want to learn next: Improving my React and Fullstack skills with [Epic React](https://epicreact.dev/) and [Fullstack Masterclass](https://www.newline.co/tinyhouse).
 - 📫 How to reach me: shramko.web@yahoo.com
 - ⚡ My personal website: [shramko.dev](https://shramko.dev/)
