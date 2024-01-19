@@ -1,4 +1,4 @@
-# Shramko Serhii
+# Serhii Shramko 
 
 👋 Hi, I'm Serhii. I'm a software engineer at [MacPaw](https://macpaw.com/).
 Previously I have worked at [P1k](https://p1k.org/) and at [PDFFiller](https://www.pdffiller.com/).
