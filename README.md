@@ -17,6 +17,7 @@ Previously I have worked at [P1k](https://p1k.org/) and at [PDFFiller](https://w
 - [Redux](https://redux.js.org/)
 - [Next.js](https://nextjs.org/)
 - [Jest](https://jestjs.io/)
+- [Tailwind CSS](https://tailwindcss.com)
 - [Storybook](https://storybook.js.org/)
 - [Sass](https://sass-lang.com/)
 - [BEM](https://en.bem.info/methodology/)
