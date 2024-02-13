@@ -4,10 +4,11 @@
 Previously I have worked at [P1k](https://p1k.org/) and at [PDFFiller](https://www.pdffiller.com/).
 
 [//]: # (- 🔭 I’m currently working on:)
-- 🌱 ~~I’m currently learning: How to create the backend part of a web app (I'm doing [NestJS Fundamentals Course](https://courses.nestjs.com/)).~~ Done :white_check_mark:
+- :white_check_mark: ~~NestJS Fundamentals Course.~~
+- 🌱 I’m currently learning: Authentication and Authorization + Architecture and Advanced patterns in [NestJS](https://courses.nestjs.com/)
 - 🤔 What I want to learn next: Improving my React and Fullstack skills with [Epic React](https://epicreact.dev/) and [Fullstack Masterclass](https://www.newline.co/tinyhouse).
-- 📫 How to reach me: shramko.web@yahoo.com
-- ⚡ My personal website: [shramko.dev](https://shramko.dev/)
+- 📫 How to reach me: shramko.dev@gmail.com
+- ⚡ My website: [shramko.dev](https://shramko.dev/)
 
 ## 🔧 Tools I Like To Use
 
@@ -24,6 +25,6 @@ Previously I have worked at [P1k](https://p1k.org/) and at [PDFFiller](https://w
 ## 📚 My favorite learning sources
 
 - [Frontend Masters](https://frontendmasters.com/)
+- [NestJS Courses](https://courses.nestjs.com/)
 - [Egghead.io](https://egghead.io/)
-- [Newline.co](https://www.newline.co/)
 - [Kent C. Dodds](https://kentcdodds.com/)
