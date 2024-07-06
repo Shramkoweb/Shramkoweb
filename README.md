@@ -1,13 +1,16 @@
 # Serhii Shramko
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shramkoweb)
 
-👋 Hi, I'm Serhii. I'm a software engineer at [MacPaw](https://macpaw.com/).
+👋 Hi. I'm a software engineer **with 6 years** of experience. I'm working at [MacPaw](https://macpaw.com/).
+
 Previously I have worked at [P1k](https://p1k.org/) and at [PDFFiller](https://www.pdffiller.com/).
 
 [//]: # (- 🔭 I’m currently working on:)
 - :white_check_mark: ~~NestJS Fundamentals Course.~~
-- 🌱 I’m currently learning: Authentication and Authorization + Architecture and Advanced patterns in [NestJS](https://courses.nestjs.com/)
-- 🤔 What I want to learn next: Improving my React and Fullstack skills with [Epic React](https://epicreact.dev/) and [Fullstack Masterclass](https://www.newline.co/tinyhouse).
+- 🌱 I’m learning:
+  * **Back-End**: Authentication and Authorization + Architecture and Advanced patterns at [NestJS](https://courses.nestjs.com/)
+  * **Front-End**: Angular fundamental course at [RS School](https://rs.school/courses/angular)
+- 🤔 Improving my React and Fullstack skills with [Epic React](https://epicreact.dev/) and [Fullstack Masterclass](https://www.newline.co/tinyhouse).
 - 📫 How to reach me: shramko.dev@gmail.com
 - ⚡ My website: [shramko.dev](https://shramko.dev/)
 
