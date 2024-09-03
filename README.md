@@ -1,7 +1,7 @@
 # Serhii Shramko
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shramkoweb)
 
-👋 Hi. I'm a software engineer **with 6 years** of experience. I'm working at [MacPaw](https://macpaw.com/).
+👋 Hi. I'm a software engineer **with 6 years** of experience. I work at [MacPaw](https://macpaw.com/).
 
 Previously I have worked at [P1k](https://p1k.org/) and at [PDFFiller](https://www.pdffiller.com/).
 
