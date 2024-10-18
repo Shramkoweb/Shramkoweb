@@ -1,6 +1,6 @@
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shramkoweb)
 
-👋 Hi! I’m Serhii Shramko, a front-end engineer with over 5 years of experience. I currently work at MacPaw, specializing in building high-quality, scalable web applications with modern JavaScript frameworks and libraries.
+👋 Hi! I’m Serhii Shramko, a front-end engineer with over 5 years of experience. I currently work at [MacPaw](https://macpaw.com/), specializing in building high-quality, scalable web applications with modern JavaScript frameworks and libraries.
 
 ## About Me
 
@@ -10,12 +10,12 @@ I’m committed to continuous learning and keeping up with the latest trends in 
 
 ## Technical Skills 🛠️
 
-- Languages: JavaScript, TypeScript, HTML5, CSS3 
-- Frameworks & Libraries: React, Next.js, Redux, Astro, Plasmo
-- UI/UX: Tailwind, Sass, BEM, Storybook
-- Testing: Jest, React Testing Library
-- Version Control & Tools: Git, GitHub, CI/CD, Vercel, Netlify, Figma
-- Computer Science Fundamentals: Algorithms, Data Structures, Problem-Solving (from CS50)
+- **Languages**: JavaScript, TypeScript, HTML5, CSS3 
+- **Frameworks** & Libraries: React, Next.js, Redux, Astro, Plasmo
+- **Computer Science**: Algorithms, Data Structures, Problem-Solving (from CS50)
+- **Testing**: Jest, React Testing Library
+- **Version Control & Tool**s: Git, GitHub, CI/CD, Vercel, Netlify
+- **UI/UX**: Tailwind, Sass, BEM, Storybook, Figma
 
 ## Learning & Growth 🌱
 
@@ -35,7 +35,9 @@ I’m dedicated to refining my front-end skills by diving deeper into:
 - [Tailwind CSS](https://tailwindcss.com)
 - [Storybook](https://storybook.js.org/)
 - [Sass](https://sass-lang.com/)
-- [BEM](https://en.bem.info/methodology/)
+- [Astro](https://astro.build/)
+- [Plasmo](https://www.plasmo.com/)
+
 
 
 ## 📚 My favorite learning sources
@@ -47,8 +49,8 @@ I’m dedicated to refining my front-end skills by diving deeper into:
 
 ## Professional Goals 🚀
 
-- Front-End Expertise: Continue advancing my front-end development skills by working on cutting-edge projects that push the limits of user experience and performance.
-- Community Contribution: Engage with the developer community by contributing to open-source projects and mentoring others in the field of front-end development.
+- Front-End Expertise: I will continue advancing my front-end development skills by working on cutting-edge projects that push the limits of user experience and performance.
+- Community Contribution: Engage with the developer community by contributing to open-source projects and mentoring others in front-end development.
 
 ## Let’s Connect! 📬
 - 🐦 [Website](https://shramko.dev/)
