@@ -53,6 +53,7 @@ I’m dedicated to refining my front-end skills by diving deeper into:
 - Community Contribution: Engage with the developer community by contributing to open-source projects and mentoring others in front-end development.
 
 ## Let’s Connect! 📬
-- 🐦 [Website](https://shramko.dev/)
+- 🚀 [Website](https://shramko.dev/)
 - 📫 [Email](mailto:shramko.dev@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shramko-dev/)
+- 🐦 [Twitter](https://x.com/shramko_dev)
