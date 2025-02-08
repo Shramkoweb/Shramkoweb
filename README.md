@@ -43,7 +43,7 @@ I’m dedicated to refining my front-end skills by diving deeper into:
 ## 📚 My favorite learning sources
 
 - [CS50](https://cs50.harvard.edu/college/2024/fall/): Introduction to Computer Science (Harvard University)
-- [boot.dev](https://www.boot.dev/)
+- [Boot.dev](https://www.boot.dev/)
 - [Frontend Masters](https://frontendmasters.com/)
 - [NestJS Courses](https://courses.nestjs.com/)
 - [Kent C. Dodds](https://kentcdodds.com/)
