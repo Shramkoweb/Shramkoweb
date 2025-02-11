@@ -1,6 +1,6 @@
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shramkoweb)
 
-👋 Hi! I’m Serhii Shramko, a front-end engineer with over 5 years of experience. I build high-quality, scalable web applications with modern JavaScript frameworks and libraries.
+👋 Hi! I’m Serhii Shramko, a front-end engineer with over 6 years of experience. I build high-quality, scalable web applications with modern JavaScript frameworks and libraries.
 
 ## About Me
 
