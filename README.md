@@ -2,6 +2,11 @@
 
 👋 Hi! I’m Serhii Shramko, a front-end engineer with over 6 years of experience. I build high-quality, scalable web applications with modern JavaScript frameworks and libraries.
 
+## Let’s Connect! 📬
+
+🚀 [Website](https://shramko.dev/) | 🔗 [LinkedIn](https://www.linkedin.com/in/shramko-dev/)
+
+
 ## About Me
 
 With a deep passion for front-end development, I create seamless, user-friendly interfaces that enhance user experiences. I enjoy working with cutting-edge technologies like React, TS, Astro, and Next.js to build web applications that are both efficient and visually appealing. Over the years, I’ve had the opportunity to contribute to innovative projects at [MacPaw](https://macpaw.com/), [P1k](https://p1k.org/), and [PDFFiller](https://www.pdffiller.com/), further refining my expertise in front-end technologies.
@@ -53,9 +58,3 @@ I’m dedicated to refining my front-end skills by diving deeper into:
 
 - Front-End Expertise: I will continue advancing my front-end development skills by working on cutting-edge projects pushing user experience and performance limits.
 - Community Contribution: Engage with the developer community by contributing to open-source projects and mentoring others in front-end development.
-
-## Let’s Connect! 📬
-- 🚀 [Website](https://shramko.dev/)
-- 📫 [Email](mailto:shramko.dev@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shramko-dev/)
-- 🐦 [Twitter](https://x.com/shramko_dev)
