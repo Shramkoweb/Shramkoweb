@@ -8,14 +8,19 @@ I write about what I learn at [shramko.dev](https://shramko.dev/).
 
 TypeScript · React · Next.js · Redux · Astro · Tailwind · Jest · Storybook · Plasmo
 
+## Community & Open Source
+
+I contribute to localizing world-class engineering resources into Ukrainian:
+
+- **[State of JS](https://stateofjs.com/) / [State of CSS](https://stateofcss.com/)** — Author of the official Ukrainian translations for these global industry surveys.
+- **[JavaScript Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)** — Official translation for the 24k+ stars testing guide.
+- **[HEAD](https://github.com/joshbuchea/HEAD)** — Contributor to the comprehensive HTML `<head>` elements guide.
+
 ## Currently into
 
-- Scalable front-end architecture patterns beyond the basics
-- Completed [CS50](https://cs50.harvard.edu/college/2024/fall/) — applying CS fundamentals to everyday front-end work
-
-## Where I learn
-
-[Frontend Masters](https://frontendmasters.com/) · [Boot.dev](https://www.boot.dev/) · [MIT OCW](https://ocw.mit.edu/) · [Kent C. Dodds](https://kentcdodds.com/)
+- Completed [CS50](https://cs50.harvard.edu/) — applying computer science fundamentals to everyday front-end work.
+- Scalable front-end architecture patterns beyond the basics.
+- Exploring Python & Go via [Boot.dev](https://www.boot.dev/?bannerlord=shramko).
 
 ## Let's connect
 
