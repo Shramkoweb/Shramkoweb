@@ -6,7 +6,7 @@ I write about what I learn at [shramko.dev](https://shramko.dev/).
 
 ## What I work with
 
-TypeScript · React · Next.js · Redux · Astro · Tailwind · Jest · Storybook · Plasmo
+TypeScript · React · Next.js · Redux · Astro · Tailwind · Jest · Storybook · Nest.js · WXT.dev
 
 ## Community & Open Source
 
